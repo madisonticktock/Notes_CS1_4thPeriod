@@ -10,12 +10,12 @@ public class Notes01_Printing_and_Escape_Sequences {
 
 	public static void main(String[] args) {
 		
-<<<<<<< HEAD
+
 		System.out.print("Hello.");
 		System.out.println(" How are you today?");
 		System.out.println("Mr.Rummel said, \"DO IT AGIAN!\"");
 		System.out.println("When I was \na young boy");
-=======
+
 		//print() Simply prints the String
 		System.out.print("Sup Yo! ");
 		
@@ -38,7 +38,7 @@ public class Notes01_Printing_and_Escape_Sequences {
 		problem1();
 		problem1();
 		problem1();
-		problem1();
+		
 >>>>>>> 94f61be243cfb79218c01125ca97353adec7084d
 		
 	}
