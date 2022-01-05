@@ -1,4 +1,4 @@
-package notes;
+ package notes;
 
 /*
  * Notes: If Statements and Booleans
